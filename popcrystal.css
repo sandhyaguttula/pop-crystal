@@ -1,0 +1,395 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.pop-rock-logo {
+    width: 40px;
+    height: 40px;
+}
+
+#navItem1 {
+    color: white;
+    font-family: "Roboto";
+}
+
+#navItem2 {
+    color: white;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    color:white;
+    font-family: "Roboto";
+}
+
+#navItem4 {
+    color: white;
+    font-family: "Roboto";
+}
+
+.bg-color {
+    background: linear-gradient(to right, skyblue, pink, skyblue);
+}
+
+.welcome{
+	color:white;
+}
+
+.banner-section-bg-container {
+    height: 100vh;
+    background-size: cover;
+}
+
+.banner-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: 300;
+}
+
+.banner-caption {
+    color: #f5f7fa;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 300;
+}
+
+.custom-button {
+    color: white;
+    background-color: #d0b200;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.custom-outline-button {
+    color: #d0b200;
+    background-color: transparent;
+    width: 130px;
+    height: 45px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d0b200;
+    border-radius: 8px;
+}
+
+
+.healthy-food-section {
+    background-color: #f9fbfe;
+    background: linear-gradient(to right, white,white,#2596be);
+}
+
+.healthy-food-section-img {
+    width: 250px;
+    background-color: white;
+    border-radius: 50%;
+
+}
+
+.healthy-food-section-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 60px;
+    font-weight: 700;
+}
+
+.healthy-food-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.custom-button {
+    color: white;
+    background-color: #d0b200;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+
+.custom-button {
+    color: white;
+    background-color: #d0b200;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+
+.custom-button {
+    color: white;
+    background-color: #d0b200;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.menu-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 24px;
+}
+
+.menu-item-link {
+    color: #d0b200;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.menu-item-card {
+    border-radius: 16px;
+}
+
+.dollar {
+    color: blue;
+    font-weight: bold;
+}
+
+.product-button {
+    color: white;
+    background-color: skyblue;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.offerparagraph {
+    text-decoration: line-through;
+    color: skyblue;
+    font-size: 20px;
+}
+
+.paraElement {
+    font-size: 50px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #b80b0b;
+
+}
+
+.circle-card {
+    background-color: white;
+    border-radius: 100%;
+    width: 30vw;
+    height: 50vh;
+}
+
+.bluecard {
+    background-color: #0a4273;
+    height: 30vh;
+    width: 100vh;
+}
+
+.About-outline-button {
+
+    background-color: transparent;
+    width: 130px;
+    height: 45px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: skyblue;
+    border-radius: 8px;
+}
+
+.carosel-image {
+
+    background-color: white;
+    border-radius: 20px;
+    width: 37vw;
+    height: 60vh;
+
+}
+
+.scrol-down {
+    color: #1e5061;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.shop-now-button {
+    color: #1e5061;
+    background-color: white;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.logo-card {
+    width: 50px;
+    height: 40px;
+    border-color: white;
+    border-color: red;
+}
+
+.circle-card1 {
+    background-color: white;
+    border-radius: 100%;
+    width: 80vw;
+    height: 70vh;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.filter-container,
+.select-container {
+    margin: 10px 0;
+}
+
+.product-list {
+    margin-top: 20px;
+}
+
+.product {
+    padding: 10px;
+    border: 1px solid #ddd;
+    margin-bottom: 5px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.filter-container {
+    margin: 20px;
+}
+
+#productFilter {
+    padding: 8px;
+    width: 200px;
+    border: none;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    cursor: pointer;
+
+
+}
+
+.product-list {
+    margin-top: 20px;
+}
+
+.product {
+    padding: 10px;
+    border: 1px solid #ddd;
+    margin-bottom: 5px;
+}
+
+
+
+.carousel {
+    position: relative;
+    width: 400px;
+    height: 70vh;
+    overflow: hidden;
+}
+
+.carousel-inner {
+    display: flex;
+    transition: transform 0.5s ease;
+}
+
+.carousel-item {
+    min-width: 100%;
+    box-sizing: border-box;
+}
+
+.carousel-item img {
+    width: 45%;
+    display: block;
+    height:80%;
+}
+
+.arrow {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: none;
+    font-size: 30px;
+    padding: 10px;
+    cursor: pointer;
+    z-index: 1;
+}
+
+.arrow.left {
+    left: 0;
+    background-color:#8786db;
+}
+
+.arrow.right {
+    right: 0;
+    background-color:#8786db;
+}
+
+/* Dots container in between arrows */
+.dots-container {
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dots {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dot {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    margin: 0 5px;
+    background-color: lightgray;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.dot.active {
+    background-color: #8786db;
+}
+
+.paraClass{
+
+	padding-left:10px;
+}
+
+.spanClass{
+	color:#183b56;
+	font-weight:bold;
+}
+
+.newlot{
+    background-color:#8786db;
+    text-align:center;
+    height:40px;
+    width:80px;
+    margin-top:40px;
+    padding:10px;
+    border-top-right-radius:10px;
+    border-bottom-right-radius:10px;
+    color:white;
+}
+
+.endsection{
+	color: #183b56;
+}
